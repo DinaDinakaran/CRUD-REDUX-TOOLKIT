@@ -1,0 +1,17 @@
+.Allstudents{
+    flex:8
+}
+.stu-btn{
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(7, 138, 138);
+    color: #fff;
+    padding: 5px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+
+}
+.delete-btn{
+    color:red;
+    cursor: pointer;
+}

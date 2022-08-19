@@ -1,0 +1,33 @@
+.student{
+    flex :8;
+}
+.edit{
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 10px;
+    padding-right: 20px;
+}
+.edit-btn{
+    padding: 4px 7px;
+    font-size: 23px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    background-color:rgb(255, 215, 53);
+    color: #fff;
+    cursor: pointer;
+}
+.Add-btn{
+    margin-left: 20px;
+    padding: 4px 7px;
+    font-size: 23px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    background-color:rgb(3, 87, 34);
+    color: #fff;
+    cursor: pointer;
+
+}
